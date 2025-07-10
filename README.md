@@ -110,7 +110,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ### Run the Notebook
 
 1. Open `breast_cancer_classification.ipynb` in Jupyter Notebook or any Python IDE.
-2. Ensure `breast-cancer.csv` is in the same directory.
+2. Ensure `breast_cancer.csv` is in the same directory.
 3. Run all cells to see model training, tuning, and evaluation.
 
 ---
